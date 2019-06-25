@@ -22,11 +22,14 @@ Ted-Ed show
 }
 ```
 File name will be 
-`MD5.hexdigest("http://feeds.feedburner.com/Ted-edPodcast") = 2c6a6f9d4c2a824c5b6be973ef3e863a`
+
+`MD5.hexdigest("http://feeds.feedburner.com/Ted-edPodcast")=2c6a6f9d4c2a824c5b6be973ef3e863a`
+
 So file name will be 
+
 `2c6a6f9d4c2a824c5b6be973ef3e863a.json`
 
-Use `https://cryptii.com/pipes/md5-hash` to get md5 value for url
+Use https://cryptii.com/pipes/md5-hash to get md5 value for url
 
 # Last step
 Put file into index folder and to a pull request
